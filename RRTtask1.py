@@ -2,9 +2,6 @@ import matplotlib.pyplot as pt
 from matplotlib.collections import LineCollection
 import numpy as np 
 import random
-import os
-import time
-import math
 
 def main():
     sd = 1
